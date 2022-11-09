@@ -1,0 +1,5 @@
+torch
+torchvision
+ipykernel
+mypy
+matplotlib
